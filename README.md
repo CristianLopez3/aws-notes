@@ -9,8 +9,9 @@
 
 ### Content Table
 
-Please check each section, it's going to have a quizz and the correct answer.
+Please check each section, each one will have a quizz with the correct answer explained.
 
 1. [Introduction to AWS Model and the Key Value ](./content/introduction.md)
-2. [Cloud Computing - Deployment Types ](./content/introduction.md)
+2. [Cloud Computing - Deployment Types ](./content/cloud-computing.md)
+2. [Amazon EC2 and EC2 Types ](./content/ec2.md)
  
