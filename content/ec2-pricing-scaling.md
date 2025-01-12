@@ -85,6 +85,8 @@ Amazon EC2 instances scaling in and out as part of an Auto Scaling group.
 
 When you create an Auto Scaling group, you can set the minimum number of Amazon EC2 instances. The minimum capacity is the number of Amazon EC2 instances that launch immediately after you have created the Auto Scaling group. In this example, the Auto Scaling group has a minimum capacity of one Amazon EC2 instance.
 
+<img src="../assets/scaling.png">
+
 Next, you can set the desired capacity at two Amazon EC2 instances even though your application needs a minimum of a single Amazon EC2 instance to run.
 
 >[!NOTE]

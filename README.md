@@ -16,3 +16,4 @@ Please check each section, each one will have a quizz with the correct answer ex
 3. [Amazon EC2 and EC2 Types ](./content/ec2.md)
 4. [Amazon EC2 Pricing and Scalling ](./content/ec2-pricing-scaling.md)
 5. [What is Tenancy?](./content/tenancy.md)
+6. [SQS and SNS](./content/messaging.md)
