@@ -5,7 +5,7 @@
 [Skill Builder course](https://explore.skillbuilder.aws/learn/course/134/play/136404/aws-cloud-practitioner-essentials)
 
 > [!IMPORTANT]
-> All the content here is from AWS Skill Builder, although it might have some definitions and descriptions provided by my.
+> _All the content here is from AWS Skill Builder, although it might have some definitions and descriptions provided by me._
 
 ### Content Table
 
@@ -17,3 +17,8 @@ Please check each section, each one will have a quizz with the correct answer ex
 4. [Amazon EC2 Pricing and Scalling ](./content/ec2-pricing-scaling.md)
 5. [What is Tenancy?](./content/tenancy.md)
 6. [SQS and SNS](./content/messaging.md)
+7. [Serverles Computing](./content/serverless.md)
+8. [Containerized Applications](./content/containerized.md)
+
+>[!IMPORTANT]
+> **Cloud Computing**: _the on-demand delivery of IT resources over the internet with pay-as-you-go pricing.
